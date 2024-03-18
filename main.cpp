@@ -7,6 +7,7 @@ int main()
 {
 	int begin, end;
 	int prime1, prime2;
+	
 
 	getTwoValues(begin, end);
 	prime1 = getNextPrime(begin);
